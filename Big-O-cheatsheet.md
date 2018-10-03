@@ -21,10 +21,10 @@ complexity, for instance.
 
 All these structures have a Space Complexity of O(n)
 
-### Trees 
+### Trees (average cases)
 | Name                    | Access    | Search    | Insertion | Deletion  |
 |-------------------------|----------:|----------:|----------:|----------:|
-| Binary Search Tree      | O(n)      | O(n)      | O(n)      | O(n)      |
+| Binary Search Tree      | O(log(n)) | O(log(n)) | O(log(n)) | O(log(n)) |
 | B-Tree                  | O(log(n)) | O(log(n)) | O(log(n)) | O(log(n)) |
 
 All these structures have a Space Complexity of O(n)

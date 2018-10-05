@@ -1,5 +1,6 @@
 # Javascript Data Structures
-I just wanted to practice data structures
+I just wanted to practice data structures. This repository contains (or will contain)
+several documents, code snippets and examples.
 
 # Why this repo?
 Because I'm trying to [Learn in Public](https://twitter.com/swyx/status/1009174159690264579).
